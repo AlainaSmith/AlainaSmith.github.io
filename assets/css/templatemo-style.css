@@ -839,7 +839,7 @@ section.contact-me {
   
       &:after{
         content: "|";
-        animation: blink 200ms linear infinite alternate;
+        animation: blink 50ms linear infinite alternate;
       }
   }
   
